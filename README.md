@@ -51,8 +51,8 @@
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/guidodeona/password-auditor.git
-cd password-auditor
+git clone https://github.com/guidodeona/Password-Auditor.git
+cd Password-Auditor
 
 # Instalar dependencias
 pip install -r requirements.txt
