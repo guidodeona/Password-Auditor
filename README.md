@@ -51,7 +51,7 @@
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/password-auditor.git
+git clone https://github.com/guidodeona/password-auditor.git
 cd password-auditor
 
 # Instalar dependencias
